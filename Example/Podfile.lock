@@ -1,0 +1,14 @@
+PODS:
+  - tttn (0.1.0)
+
+DEPENDENCIES:
+  - tttn (from `../`)
+
+EXTERNAL SOURCES:
+  tttn:
+    :path: ../
+
+SPEC CHECKSUMS:
+  tttn: f7dee0653087c3a636ed0e5feee6e8ae76b3eccc
+
+COCOAPODS: 0.35.0
